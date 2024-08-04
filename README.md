@@ -78,11 +78,11 @@ Passionate about Data Engineering, Data Science, and Python development.
 
 ---
 
-### Profile Views
+### GitHub Stats
+
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=Zakariae-BAHARI&color=blue)
 
-## 📈 GitHub Stats
 ![Zakariae's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zakariae-BAHARI&show_icons=true&theme=radical)
 
-## Languages 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zakariae-BAHARI&layout=compact&theme=radical)
+
