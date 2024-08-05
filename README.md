@@ -39,12 +39,6 @@ I'm a passionate Data Engineer with a focus on Cloud Data Engineering. My journe
 
 ### Projects
 
-I understand, let's try to prioritize the projects more clearly based on their relevance to data engineering and data science:
-
----
-
-### Projects
-
 1. **[Financial-Data-Pipeline](https://github.com/Zakariae-BAHARI/Financial-Data-Pipeline):** Setting up a data pipeline that retrieves real-time stock data from the Alpha Vantage API, processes it through Kafka, and stores it in PostgreSQL. Utilizing Docker for containerization, it ensures a consistent and portable setup for data processing.
 2. **[UserDataPipeline](https://github.com/Zakariae-BAHARI/UserDataPipeline):** Automating the extraction and storage of user data from a public API, saving it to an S3 bucket, processing it with AWS Lambda, and storing it in an RDS database. 
 3. **[Football Insights Studio](https://github.com/Zakariae-BAHARI/Football-Insights-Studio):** This project analyzes FIFA player data from sofifa.com, focusing on Moroccan players to predict their optimal positions using machine learning models. By assessing each player's strengths and weaknesses, the project aids coaches and analysts in making informed decisions about player development and match strategies, ensuring that players are positioned where they can perform at their best.
