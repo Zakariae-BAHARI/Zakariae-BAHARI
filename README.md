@@ -1,6 +1,6 @@
 # Hi there, I'm Zakariae BAHARI 👋
 
-I'm a passionate Data Engineer with a focus on Cloud Data Engineering. My journey is driven by a love for learning, automating tasks, and creating impactful projects that solve real-world problems.
+I'm a passionate AI & Data Engineer with a focus on Cloud Data Engineering and generative AI. My journey is driven by a love for learning, automating tasks, and creating impactful projects that solve real-world problems.
 
  ### About Me
 - 🎓 Currently, I'm pursuing a degree in AMOA & Project Management Engineering at INPT.
@@ -27,13 +27,14 @@ I'm a passionate Data Engineer with a focus on Cloud Data Engineering. My journe
 #### Collaboration Tools
 - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) , ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) 
 - ![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat&logo=scrum&logoColor=white) , ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=trello&logoColor=white)
-, ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
+
 
 ---
 
 ### Contact
 - **Email**: zakariae.bahari@gmail.com
 - **LinkedIn**: [Zakariae Bahari](https://www.linkedin.com/in/zakariae-bahari-19b233248/)
+- **Medium**: [Zakariae Bahari](https://medium.com/@zakariae.bahari)
 - **Twitter**: [@Bahari_Zakariae](https://x.com/Bahari_Zakariae)
 ----
 
