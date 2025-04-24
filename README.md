@@ -49,9 +49,6 @@ I'm a passionate AI & Data Engineer with a focus on Cloud Data Engineering and g
 7. **[CRM Chatbot](https://github.com/Zakariae-BAHARI/CRM-Chatbot):** A CRM Chatbot designed to improve customer interactions by providing quick responses to inquiries. Built with Python's ChatterBot library and Flask framework, it efficiently handles various questions, enhancing customer service capabilities.
 8. **[Healthcare Data Analysis and Insights](https://github.com/Zakariae-BAHARI/Healthcare-Data-Analysis-and-Insights):** Analyzing hospital and patient data to uncover trends that can improve healthcare services. It involves data cleaning, exploratory analysis, and visualizations, providing a clearer understanding of how to enhance patient care and operational efficiency.
 9. **[Machine-Failure-Prediction](https://github.com/Zakariae-BAHARI/Machine-Failure-Prediction):** Predicting machine failures using Random Forest Classifier on the AI4I 2020 Predictive Maintenance dataset, the project aims to identify potential failures early, accompanied by visualizations to enhance understanding of the model's performance.
-10. **[Conformify](https://github.com/Zakariae-BAHARI/Conformify):** A web application for QSE Legal & Regulatory Monitoring using Flask.
-11. **[School Platform](https://github.com/Zakariae-BAHARI/School-Platform):** A web application to improve learning using Flask.
-12. **[SpendSmart](https://github.com/Zakariae-BAHARI/SpendSmart):** A Django web app to help users track their expenses and income.
 
 ---
 
@@ -61,6 +58,8 @@ I'm a passionate AI & Data Engineer with a focus on Cloud Data Engineering and g
 - IBM Data Engineering Professional Certificate
 - Oracle Cloud Infrastructure 2024 Generative AI Certified Professional
 - TOEIC (B2 level)
+- AWS Cloud Practitionner 
+- Fabric Microsoft
 
 ---
 
