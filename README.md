@@ -3,9 +3,9 @@
 I'm a passionate AI & Data Engineer with a focus on Cloud Data Engineering and generative AI. My journey is driven by a love for learning, automating tasks, and creating impactful projects that solve real-world problems.
 
  ### About Me
-- 🎓 Currently, I'm pursuing a degree in AMOA & Project Management Engineering at INPT.
+- 🎓 I'm an IT Engineer graduated from INPT Rabat.
 - 🌱 I'm diving into Cloud Data Engineering, improving my skills in creating scalable data solutions.
-- 🔧 Automating tasks with Python is one of my favorite pastimes.
+- 🔧 Automating tasks with Python & LLMs is one of my favorite pastimes.
 ---
 
 
